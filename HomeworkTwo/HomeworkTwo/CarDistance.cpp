@@ -1,3 +1,4 @@
+//This program determines the distance a car can travel on a single tank of gas in the town and on the highway.
 #include <iostream>
 
 using namespace std;
