@@ -13,7 +13,7 @@ int main()
 	distanceTown = carGasAmount * townDrivingDistance;
 	distanceHighway = carGasAmount * highwayDrivingDistance;
 
-	cout << "";
+	cout << "The car can travel " << distanceTown << " miles on a tank in town and " << distanceHighway << " miles on a tank on the highway" << endl;
 
 	return 0;
 }
